@@ -1,9 +1,9 @@
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/d2c2fdcb-4020-4c87-914f-125ab90bfa0a" />
 
-Ridhika Bansal
+Name: Ridhika Bansal
 
-1024150280
+Roll number: 1024150280
 
-2O31
+Batch: 2O31
 
-ENC
+Branch: Electronics and Computer Engineering
