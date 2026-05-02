@@ -1,4 +1,4 @@
-<img width="596" height="389" alt="image" src="https://github.com/user-attachments/assets/d2c2fdcb-4020-4c87-914f-125ab90bfa0a" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/d2c2fdcb-4020-4c87-914f-125ab90bfa0a" />
 
 Ridhika Bansal
 
